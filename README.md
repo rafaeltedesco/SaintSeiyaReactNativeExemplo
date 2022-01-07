@@ -8,5 +8,5 @@ Um agradecimento ao Diego Chagas por tornar a API Saint Seiya disponível!
 
 ## Screenshots
 
-![screenshot1](screenshots/screenshot1.jpeg | width=300)
-![screenshot2](screenshots/screenshot2.jpeg | width=300)
+![screenshot1](screenshots/screenshot1_thumb.jpeg)
+![screenshot2](screenshots/screenshot2_thumb.jpeg)
